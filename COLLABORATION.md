@@ -351,11 +351,12 @@ The final `main` branch contains the feature originally developed in the `add-pr
 
 ## Public Repository
 
-PASTE YOUR ACTUAL PUBLIC GITHUB REPOSITORY URL HERE
+
+https://github.com/shanukashyap/Git-Collaboration-Workflow
 
 ## Pull Request
 
-PASTE YOUR ACTUAL PULL REQUEST URL HERE
+https://github.com/shanukashyap/Git-Collaboration-Workflow/pull/1
 
 ## Branches
 
