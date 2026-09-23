@@ -7,12 +7,12 @@ Git Collaboration Workflow
 ## Repository
 
 **GitHub Repository:**
-PASTE YOUR ACTUAL PUBLIC GITHUB REPOSITORY URL HERE
+https://github.com/shanukashyap/Git-Collaboration-Workflow
 
 ## Pull Request
 
 **Pull Request:**
-PASTE YOUR ACTUAL PULL REQUEST URL HERE
+https://github.com/shanukashyap/Git-Collaboration-Workflow/pull/3
 
 ---
 
@@ -356,7 +356,7 @@ https://github.com/shanukashyap/Git-Collaboration-Workflow
 
 ## Pull Request
 
-https://github.com/shanukashyap/Git-Collaboration-Workflow/pull/1
+https://github.com/shanukashyap/Git-Collaboration-Workflow/pull/3
 
 ## Branches
 
